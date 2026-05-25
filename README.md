@@ -75,18 +75,6 @@ npm install
 
 Edit `.env` in the project root. Change **line 12** to your PostgreSQL connection string:
 
-```env
-# .env — line 12
-DATABASE_URL=postgresql://your_user:your_password@localhost:5432/rmcl_cms
-
-# Admin credentials (lines 15–16)
-ADMIN_EMAIL=admin@rmcl
-ADMIN_PASSWORD=Dhaka@2026
-
-# Session secret (line 19)
-SESSION_SECRET=rmcl-admin-session-secret-2026-change-in-production
-```
-
 ### 2. Set up the database
 
 ```bash
@@ -132,7 +120,7 @@ npm run dev
 
 - **URL**: `/admin/login`
 - **Credentials**: Set via `ADMIN_EMAIL` and `ADMIN_PASSWORD` in `.env`
-- **Default**: `admin@rmcl` / `Dhaka@2026`
+- **Default**: `admin pmail` / `admin password`
 
 ### Capabilities
 
