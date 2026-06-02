@@ -42,7 +42,7 @@ The project was designed with emphasis on:
 
 ### About / Institutional Capacity
 
-![RMCL About Section](./screenshots/rmcl-about.png)
+![RMCL About Section](./screenshots/rmcl-about-practice-areas.png)
 
 ### Insights Section
 
